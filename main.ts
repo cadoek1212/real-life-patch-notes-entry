@@ -39,8 +39,8 @@ const CANDIDATES: Candidate[] = [
     scores: [5, 2, 4, 3, 3],
   },
   {
-    text: "v3.0.2: patched the stomach to stop growling loudly during silent meetings; fix ships with a 10-minute delay.",
-    scores: [5, 3, 4, 4, 2],
+    text: "v3.0.2: fixed a bug where the stomach growled loudly during silent meetings to announce its presence.",
+    scores: [5, 4, 4, 4, 4],
   },
   {
     text: "v2.9.0: fixed a bug where yawning in a meeting triggered a chain reaction across all nearby humans.",
